@@ -1,12 +1,19 @@
-
+img{
+   width: 100%
+}
+.firsth1{
+   color: orange;
+   background-color: pink;
+}
 .nav {
-    position: fixed;
+    position:sticky;
     display: block;
     width: 100%;
-    height: 78px;
+    height: 50px;
     background-color:orange;
-    line-height: 5px;
-}
+    line-height: 7px;
+   
+    }
 
  .nav ul {
     list-style: none;
